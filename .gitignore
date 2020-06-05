@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+dogs_cats/data/*
+dogs_cats/dog/sampleSubmission.csv
+dogs_cats/dog/train.zip
+dogs_cats/dog/test1.zip
